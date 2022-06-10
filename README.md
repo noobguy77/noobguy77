@@ -33,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 <p>
-<img width = 40%, src="https://github-readme-stats.vercel.app/api?username=noobguy77&show_icons=true&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_border=true">
-<img width = 40%, src="https://github-readme-streak-stats.herokuapp.com/?user=noobguy77&theme=highcontrast&hide_border=true">
-<img width = 40%, src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobguy77&exclude_repo=Competitive_Programming_Score_API,Used-Cars-Price-Prediciton-using-Machine-Learning&layout=compact&hide=swift&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_title=true&hide_border=true">
+<img width = 60%, src="https://github-readme-stats.vercel.app/api?username=noobguy77&show_icons=true&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_border=true">
+<img width = 30%, src="https://github-readme-streak-stats.herokuapp.com/?user=noobguy77&theme=highcontrast&hide_border=true">
+<img width = 30%, src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobguy77&exclude_repo=Competitive_Programming_Score_API,Used-Cars-Price-Prediciton-using-Machine-Learning&layout=compact&hide=swift&title_color=ffffff&icon_color=06BCC1&text_color=F4EDEA&bg_color=000000&hide_title=true&hide_border=true">
 </p>

@@ -22,7 +22,7 @@
 
 
 
-### Skills:
+**Skills:**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)

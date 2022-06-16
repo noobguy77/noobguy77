@@ -18,7 +18,7 @@
 - 👨🏽‍💻 I’m currently a CSE Undergrad student
 - 🌱 I’m currently working on NodeJS and exploring different Backend frameworks 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jayanth.naidu999@gmail.com](mailto:jayanth.naidu999@gmail.com).
+- 📫 Email me at [impmailonly7@gmail.com](mailto:impmailonly7@gmail.com).
 
 
 

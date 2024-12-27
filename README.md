@@ -15,21 +15,18 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student
-- 🌱 I’m currently working on NodeJS and exploring different Backend frameworks 
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [impmailonly7@gmail.com](mailto:impmailonly7@gmail.com).
+- 👨🏽‍💻 Software Engineer @ DigitalOcean 🦈
 
 
 
 **Skills:**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-001?&logo=MongoDB)
+![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&)
+![NoSQL](https://img.shields.io/badge/-MongoDB-001?&logo=MongoDB&)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flutter](https://img.shields.io/badge/-Flutter-001?&logo=Flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-001?&logo=Firebase)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?&logo=digitalocean&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
 <p>
